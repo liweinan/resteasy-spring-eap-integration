@@ -4,11 +4,12 @@
     <list default="true" id="e36f24fd-0bb8-4b24-867c-de4635d0caf5" name="Default" comment="" />
     <ignored path="spring-integration-test-nodep.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="$PROJECT_DIR$/../../resteasy-mimetest/.idea/workspace.xml" changelist="e36f24fd-0bb8-4b24-867c-de4635d0caf5" time="1383208560463" ignored="false" />
-    <file path="$PROJECT_DIR$/../../play-2.1.3/samples/scala/helloworld/.idea/workspace.xml" changelist="e36f24fd-0bb8-4b24-867c-de4635d0caf5" time="1383208560463" ignored="false" />
+    <file path="$PROJECT_DIR$/../../resteasy-mimetest/.idea/workspace.xml" changelist="e36f24fd-0bb8-4b24-867c-de4635d0caf5" time="1383223972692" ignored="false" />
+    <file path="$PROJECT_DIR$/../../play-2.1.3/samples/scala/helloworld/.idea/workspace.xml" changelist="e36f24fd-0bb8-4b24-867c-de4635d0caf5" time="1383223972692" ignored="false" />
     <file path="/MANIFEST.MF" changelist="e36f24fd-0bb8-4b24-867c-de4635d0caf5" time="1383159490961" ignored="false" />
-    <file path="/pom.xml" changelist="e36f24fd-0bb8-4b24-867c-de4635d0caf5" time="1383164495405" ignored="false" />
+    <file path="/pom.xml" changelist="e36f24fd-0bb8-4b24-867c-de4635d0caf5" time="1383222111865" ignored="false" />
     <file path="$PROJECT_DIR$/../../spring-framework-3.2.4.RELEASE/spring-beans/src/main/java/org/springframework/beans/factory/xml/DefaultDocumentLoader.java" changelist="e36f24fd-0bb8-4b24-867c-de4635d0caf5" time="1383207789589" ignored="false" />
+    <file path="$PROJECT_DIR$/../spring-integration-test/pom.xml" changelist="e36f24fd-0bb8-4b24-867c-de4635d0caf5" time="1383222111865" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,19 +70,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="0" selection-start="1730" selection-end="1953" vertical-scroll-proportion="0.0">
+            <state line="52" column="0" selection-start="1730" selection-end="1953" vertical-scroll-proportion="0.81420314">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="applicationContext.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="applicationContext.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="4" selection-start="361" selection-end="361" vertical-scroll-proportion="0.123864576">
+            <state line="6" column="4" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -167,6 +168,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="spring-integration-test-nodep" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-integration-test-nodep" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-integration-test-nodep" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -266,7 +281,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-integration-test" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -479,16 +494,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="0" selection-start="1730" selection-end="1953" vertical-scroll-proportion="0.0">
+        <state line="6" column="4" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="4" selection-start="361" selection-end="361" vertical-scroll-proportion="0.123864576">
+        <state line="52" column="0" selection-start="1730" selection-end="1953" vertical-scroll-proportion="0.81420314">
           <folding />
         </state>
       </provider>
