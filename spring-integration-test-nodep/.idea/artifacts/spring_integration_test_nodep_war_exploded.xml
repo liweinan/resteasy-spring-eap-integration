@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="spring-integration-test-nodep:war exploded">
+    <output-path>$PROJECT_DIR$/target/spring-integration-test-nodep</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="spring-integration-test-nodep/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="spring-integration-test-nodep" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-integration-test-nodep:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="spring-integration-test-nodep.war">
+      <element id="artifact" artifact-name="spring-integration-test-nodep:war exploded" />
+    </root>
+  </artifact>
+</component>
