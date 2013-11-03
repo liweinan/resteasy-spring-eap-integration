@@ -15,7 +15,7 @@ This project demonstrates how to use EAP modules to enable spring support. To ma
 - Download JBoss Snowdrop 3.0.1.Final from http://www.jboss.org/snowdrop/downloads
 - Extract it and put the modules from 'module-spring-3.2' into the 'modules' directory of EAP.
 - Copy the resteasy-spring module from "eap-module-def" into the 'modules' directory of EAP.
-- Deploy 'spring-integration-test-nodep' and have fun.
+- Deploy 'spring-integration-test-nodep' into EAP, and the project should be deployed.
 
 The dependency of resteasy-spring module is defined in 'MANIFEST.MF' of 'spring-integration-test-nodep':
 
